@@ -10,3 +10,6 @@ Erstellung der ersten Lasercutvorlage und Durchführung des Lasercuts:
 Erster Versuch des 3D-Drucks
 ## 4. Tag: Lasercut und 3D-Druck
 Vorbereitung und Durchführung des 2. Lasercuts, Zusammenbau des Roboters und Erstellen neuer Modelle für den 3D-Druck
+## 5. Tag: Präsentation
+Fertigstellung und Präsentation unserer Arbeit aus der Projektwoche.
+![Gruppenfoto mit Resultat](https://github.com/Arduino-Smartmaterials-Projektwoche/Kriecher/blob/master/Dokumentation/src/SmartKriechoino.jpg)
